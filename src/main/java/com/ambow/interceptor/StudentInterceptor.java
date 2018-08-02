@@ -26,7 +26,8 @@ public class StudentInterceptor implements HandlerInterceptor{
 	public void postHandle(HttpServletRequest arg0, HttpServletResponse arg1, Object arg2, ModelAndView arg3)
 			throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("¿πΩÿ÷Æ«∞");
+		System.out.println("–ﬁ∏ƒ≤‚ ‘");
+		
 		
 	}
 
